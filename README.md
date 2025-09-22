@@ -1,10 +1,10 @@
 # Hi, I'm ArbaJ Shaikh
 
-👨‍💻 I'm interested in Web Technology
+👨‍💻 I'm interested in Software Engineering and realted things
 
-🌱 I’m currently learning React JS
+🌱 I’m currently learning MERN FullStack Development
 
-💬 I’m looking to collaborate on Web Development projects
+💬 I’m looking to collaborate on Innovative projects
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arbaj-shaikh-b9a8b7228)
 
@@ -14,9 +14,9 @@
 
 ## Skills
 
-- **Programming Languages**: C, C++, Java, JavaScript
-- **Web Technologies**: HTML, CSS, Bootstrap
-- **Concepts**: Object-Oriented Programming (OOP)
+- **Programming Languages**:  C++, Java, JavaScript
+- **Web Technologies**: HTML, CSS, Bootstrap,React, Redux, Router
+- **Concepts**: Object-Oriented Programming (OOP) , DSA
 - **Cloud**: Microsoft Azure
 
 <!--
